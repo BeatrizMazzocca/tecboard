@@ -1,6 +1,8 @@
 # TecBoard
 
-TecBoard é um projeto de front-end que consiste em uma **landing page com layout adaptativo**, desenvolvida para apresentar uma plataforma fictícia de monitoramento de aplicações em tempo real.
+site: https://beatrizmazzocca.github.io/tecboard/ 
+
+TecBoard é um projeto de front-end que consiste em uma **landing page com layout responsivo**, desenvolvida para apresentar uma plataforma fictícia de monitoramento de aplicações em tempo real.
 
 O foco do projeto está na construção de um layout moderno, organização visual e experiência do usuário.
 
@@ -10,17 +12,17 @@ Projeto desenvolvido para fins de estudo e prática em front-end.
 ## 🛠️ Tecnologias utilizadas
 - HTML5
 - CSS3
-- Layout adaptativo (media queries)
+- Layout responsivo 
 - Fontes customizadas (Poppins e Unbounded)
 
 ## 🎯 Objetivo do projeto
 - Praticar estruturação semântica em HTML
 - Aplicar estilos modernos em CSS
-- Trabalhar com layout adaptativo para diferentes tamanhos de tela
+- Trabalhar com layout responsivo para diferentes tamanhos de tela
 - Desenvolver uma landing page com foco em UI
 
 ## 📱 Layout
-O layout foi desenvolvido de forma **adaptativa**, com ajustes específicos para desktop, tablet e mobile.
+O layout foi desenvolvido de forma **responsiva**.
 
 ## 📌 Status do projeto
 🚧 Em desenvolvimento  
